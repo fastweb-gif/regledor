@@ -11,7 +11,7 @@ export default function ClientSpace({ onNavigate }: ClientSpaceProps) {
   const userProfile = {
     name: "Adjoa Koffi",
     email: "adjoa.koffi@email.com",
-    phone: "+229 96 12 34 56",
+    phone: "+228 96 12 34 56",
     memberSince: "Janvier 2023",
     avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200"
   };
